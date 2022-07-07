@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+}
+.main{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+.btn{
+    width: 400px;
+    height:  300px;
+    background-color: rgb(189, 187, 187);
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
